@@ -1,0 +1,1 @@
+export { default as mobxStores } from './mobxStores';
