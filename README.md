@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h2 align="center">Simple Search application</h2>
+  <h2 align="center">Work Order Project</h2>
   </p>
 
 <!-- TABLE OF CONTENTS -->
